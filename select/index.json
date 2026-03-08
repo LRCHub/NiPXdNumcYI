@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Yellow Big Header",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T09:22:08.322841Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yellow Big Header",
+      "artist": "PeanutsKun",
+      "has_synced": true,
+      "path": "select/01_Yellow_Big_Header_PeanutsKun.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yellow Big Header",
+      "artist": "Peanuts-kun",
+      "has_synced": true,
+      "path": "select/02_Yellow_Big_Header_Peanuts-kun.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yellow Big Header",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_Yellow_Big_Header_ピーナッツくん.txt"
+    }
+  ]
+}
